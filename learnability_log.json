@@ -1,0 +1,82 @@
+[
+  {
+    "word": "parlare",
+    "similarity": 0.34,
+    "frequency": 47,
+    "pos_match": 1,
+    "cefr_gap": 1,
+    "label": 1
+  },
+  {
+    "word": "mangiare",
+    "similarity": 0.8,
+    "frequency": 50,
+    "pos_match": 1,
+    "cefr_gap": 0,
+    "label": 0
+  },
+  {
+    "word": "andare",
+    "similarity": 0.61,
+    "frequency": 137,
+    "pos_match": 0,
+    "cefr_gap": 0,
+    "label": 0
+  },
+  {
+    "word": "scrivere",
+    "similarity": 0.8,
+    "frequency": 149,
+    "pos_match": 1,
+    "cefr_gap": 1,
+    "label": 1
+  },
+  {
+    "word": "dormire",
+    "similarity": 0.76,
+    "frequency": 139,
+    "pos_match": 0,
+    "cefr_gap": -1,
+    "label": 1
+  },
+  {
+    "word": "leggere",
+    "similarity": 0.33,
+    "frequency": 83,
+    "pos_match": 0,
+    "cefr_gap": 1,
+    "label": 1
+  },
+  {
+    "word": "bere",
+    "similarity": 0.64,
+    "frequency": 146,
+    "pos_match": 1,
+    "cefr_gap": 1,
+    "label": 0
+  },
+  {
+    "word": "camminare",
+    "similarity": 0.57,
+    "frequency": 86,
+    "pos_match": 1,
+    "cefr_gap": 0,
+    "label": 1
+  },
+  {
+    "word": "guardare",
+    "similarity": 0.43,
+    "frequency": 121,
+    "pos_match": 0,
+    "cefr_gap": 0,
+    "label": 1
+  },
+  {
+    "word": "ascoltare",
+    "similarity": 0.88,
+    "frequency": 84,
+    "pos_match": 1,
+    "cefr_gap": 0,
+    "label": 1
+  }
+]
