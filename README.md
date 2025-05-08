@@ -4,7 +4,7 @@
 
 ## Project Components
 
-### Italian Vocabulary Recommender Tutoral
+### Italian Vocabulary Recommender Tutorial
 Italian_Vocabulary_Recommender.ipynb
 
 ### Data Extraction
